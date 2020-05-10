@@ -14,6 +14,10 @@ body {
     line-height: 135%;
 }
 
+.content {
+    min-height: calc(100vh - 65px);
+}
+
 header, footer {
     width: 100%;
     background-color: #fff;
